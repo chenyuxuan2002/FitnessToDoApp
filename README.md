@@ -56,11 +56,11 @@ Open the Fitness ToDo Application by scanning the QR code displayed in the termi
 
 The Fitness ToDo Application offers a range of functionalities to help you track your fitness journey:
 
-- **Organize Your Workouts:** Plan your workouts efficiently with structured plans.
-- **Track Your Steps:** Monitor your daily activity with the pedometer feature.
+- **Organize Your Workouts:** Efficiently plan your workouts by adding organized schedules.
+- **Track Your Steps:** Monitor your steps with the pedometer feature.
 - **Set Fitness Goals:** Stay motivated by setting and tracking specific fitness objectives.
-- **Capture Images:** Enrich your fitness log with photos of your workouts or surroundings.
-- **Log Activities on Calendar:** Better plan and review your fitness activities with calendar logging.
-- **Record Locations:** Enhance your activities with geographical context by marking jogging routes or exercise locations.
+- **Capture Images:** Enrich your fitness journal by taking photos of your workouts or selecting photos in the gallery.
+- **Log Activities on Calendar:** The calendar logging feature allows you to better plan and review fitness activities by selecting dates.
+- **Record Locations:** Mark jogging routes or workout locations by tapping the location button.
 
 This README provides an overview of the Fitness ToDo Application, emphasizing its key features and the steps required to start using the app. The document outlines how to clone, install, and run the application, guiding users through the setup process and highlighting the app's primary functionalities.
